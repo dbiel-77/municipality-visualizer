@@ -23,14 +23,14 @@ export default function RandomModal({ municipality, onClose, onConfirm }) {
             Close
           </button>
 
-          <a
+          <button
             href={statcanURL}
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-6 py-2 rounded font-semibold"
           >
             View Municipality
-          </a>
+          </button>
         </div>
       </div>
     </div>
