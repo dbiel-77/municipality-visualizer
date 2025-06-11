@@ -24,9 +24,7 @@ export default function RandomModal({ municipality, onClose, onConfirm }) {
           </button>
 
           <button
-            href={statcanURL}
-            target="_blank"
-            rel="noopener noreferrer"
+            nClick={() => window.open(statcanURL, "_blank", "noopener")}
             className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-6 py-2 rounded font-semibold"
           >
             View Municipality
