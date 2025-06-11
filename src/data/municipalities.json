@@ -2936,7 +2936,7 @@
     "name": "Summerside",
     "province": "PE",
     "population": 16001,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00051103025"
   },
   {
@@ -3377,7 +3377,7 @@
     "name": "Cape Breton",
     "province": "NS",
     "population": 93694,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00051217030"
   },
   {
@@ -11350,7 +11350,7 @@
     "name": "Brossard",
     "province": "QC",
     "population": 91525,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00052458007"
   },
   {
@@ -12477,7 +12477,7 @@
     "name": "Dorval",
     "province": "QC",
     "population": 19302,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00052466087"
   },
   {
@@ -13975,7 +13975,7 @@
     "name": "Mercier",
     "province": "QC",
     "population": 14626,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00052467045"
   },
   {
@@ -15291,7 +15291,7 @@
     "name": "Pickering",
     "province": "ON",
     "population": 99186,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00053518001"
   },
   {
@@ -15396,7 +15396,7 @@
     "name": "LaSalle",
     "province": "ON",
     "population": 32721,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053537034"
   },
   {
@@ -15431,7 +15431,7 @@
     "name": "Windsor",
     "province": "ON",
     "population": 229660,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00053537039"
   },
   {
@@ -15550,7 +15550,7 @@
     "name": "Haldimand County",
     "province": "ON",
     "population": 49216,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053528018"
   },
   {
@@ -15613,7 +15613,7 @@
     "name": "Milton",
     "province": "ON",
     "population": 132979,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053524009"
   },
   {
@@ -16229,7 +16229,7 @@
     "name": "Lambton Shores",
     "province": "ON",
     "population": 11876,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053538040"
   },
   {
@@ -16761,7 +16761,7 @@
     "name": "St. Catharines",
     "province": "ON",
     "population": 136803,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00053526053"
   },
   {
@@ -18497,7 +18497,7 @@
     "name": "Kitchener",
     "province": "ON",
     "population": 256885,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053530013"
   },
   {
@@ -18532,7 +18532,7 @@
     "name": "Woolwich",
     "province": "ON",
     "population": 26999,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00053530035"
   },
   {
@@ -27499,7 +27499,7 @@
     "name": "Calgary",
     "province": "AB",
     "population": 1306784,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00054806016"
   },
   {
@@ -28374,7 +28374,7 @@
     "name": "Edmonton",
     "province": "AB",
     "population": 1010899,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00054811061"
   },
   {
@@ -30502,7 +30502,7 @@
     "name": "Victoria",
     "province": "BC",
     "population": 91867,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00055917034"
   },
   {
@@ -31160,7 +31160,7 @@
     "name": "Kelowna",
     "province": "BC",
     "population": 144576,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00055935010"
   },
   {
