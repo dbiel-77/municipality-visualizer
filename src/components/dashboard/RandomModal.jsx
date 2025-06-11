@@ -17,7 +17,7 @@ export default function RandomModal({ municipality, onClose, onConfirm }) {
 
         <div className="flex flex-col gap-3">
           <button
-            onClick={onClose}
+            OnClick={onClose}
             className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-6 py-2 rounded font-semibold"
           >
             Close
