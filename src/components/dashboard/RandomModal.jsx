@@ -17,18 +17,20 @@ export default function RandomModal({ municipality, onClose, onConfirm }) {
 
         <div className="flex flex-col gap-3">
           <button
-            OnClick={onClose}
-            className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-6 py-2 rounded font-semibold"
+            onClick={onClose}
+            className="bg-red-600 hover:bg-red-700 text-white text-lg px-6 py-2 rounded font-semibold"
           >
             Close
           </button>
 
-          <button
-            OnClick={() => window.open(statcanURL, "_blank", "noopener")}
-            className="bg-blue-600 hover:bg-blue-700 text-white text-lg px-6 py-2 rounded font-semibold"
+          <a
+            href={statcanURL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white text-lg px-6 py-2 rounded font-semibold text-center no-underline inline-flex items-center justify-center"
           >
             View Municipality
-          </button>
+          </a>
         </div>
       </div>
     </div>
