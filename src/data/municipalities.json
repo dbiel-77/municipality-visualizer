@@ -11504,7 +11504,7 @@
     "name": "Lévis",
     "province": "QC",
     "population": 149683,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00052425213"
   },
   {
@@ -16600,7 +16600,7 @@
     "name": "London",
     "province": "ON",
     "population": 422324,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053539036"
   },
   {
@@ -18630,7 +18630,7 @@
     "name": "Markham",
     "province": "ON",
     "population": 338503,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053519036"
   },
   {
@@ -19267,7 +19267,7 @@
     "name": "Winnipeg",
     "province": "MB",
     "population": 749607,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00054611040"
   },
   {
@@ -24125,7 +24125,7 @@
     "name": "Saskatoon",
     "province": "SK",
     "population": 266141,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00054711066"
   },
   {
