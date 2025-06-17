@@ -32448,7 +32448,7 @@
     "name": "North Vancouver",
     "province": "BC",
     "population": 58120,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00055915051"
   },
   {
@@ -33029,7 +33029,7 @@
     "name": "Nanaimo",
     "province": "BC",
     "population": 99863,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00055921007"
   },
   {
@@ -34450,7 +34450,7 @@
     "name": "Kamloops",
     "province": "BC",
     "population": 97902,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00055933042"
   },
   {
