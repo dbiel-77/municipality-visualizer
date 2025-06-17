@@ -15606,7 +15606,7 @@
     "name": "Halton Hills",
     "province": "ON",
     "population": 62951,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00053524015"
   },
   {
@@ -18595,7 +18595,7 @@
     "name": "Aurora",
     "province": "ON",
     "population": 62057,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00053519046"
   },
   {
@@ -31804,7 +31804,7 @@
     "name": "Chilliwack",
     "province": "BC",
     "population": 93203,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00055909020"
   },
   {
