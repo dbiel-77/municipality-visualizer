@@ -18595,7 +18595,7 @@
     "name": "Aurora",
     "province": "ON",
     "population": 62057,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00053519046"
   },
   {
@@ -32385,7 +32385,7 @@
     "name": "Maple Ridge",
     "province": "BC",
     "population": 90990,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00055915075"
   },
   {
