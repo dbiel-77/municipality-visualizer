@@ -20,7 +20,7 @@ export default function MunicipalityTable({ data, onRowClick }) {
 
   // base = only not_started
   const base = useMemo(
-    () => data.filter(m => m.status != 'complete'),
+    () => data.filter(m => m.status === 'not_started'),
     [data]
   )
 
