@@ -8102,7 +8102,7 @@
     "name": "Repentigny",
     "province": "QC",
     "population": 86100,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00052460013"
   },
   {
@@ -9208,7 +9208,7 @@
     "name": "Saint-Jérôme",
     "province": "QC",
     "population": 80213,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00052475017"
   },
   {
@@ -17356,7 +17356,7 @@
     "name": "Peterborough",
     "province": "ON",
     "population": 83651,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053515014"
   },
   {
@@ -32462,7 +32462,7 @@
     "name": "Port Coquitlam",
     "province": "BC",
     "population": 61498,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00055915039"
   },
   {
