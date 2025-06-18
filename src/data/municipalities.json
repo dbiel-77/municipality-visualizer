@@ -32343,7 +32343,7 @@
     "name": "Delta",
     "province": "BC",
     "population": 108455,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00055915011"
   },
   {
@@ -32518,7 +32518,7 @@
     "name": "West Vancouver",
     "province": "BC",
     "population": 44122,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00055915055"
   },
   {
