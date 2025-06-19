@@ -15564,7 +15564,7 @@
     "name": "Norfolk County",
     "province": "ON",
     "population": 67490,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053528052"
   },
   {
@@ -16264,7 +16264,7 @@
     "name": "Sarnia",
     "province": "ON",
     "population": 72047,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053538030"
   },
   {
@@ -32266,7 +32266,7 @@
     "name": "Prince George",
     "province": "BC",
     "population": 76708,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00055953023"
   },
   {
@@ -32385,7 +32385,7 @@
     "name": "Maple Ridge",
     "province": "BC",
     "population": 90990,
-    "status": "in_progress",
+    "status": "complete",
     "DGUID": "2021A00055915075"
   },
   {
