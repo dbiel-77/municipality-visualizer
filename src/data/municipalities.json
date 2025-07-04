@@ -19064,7 +19064,7 @@
     "name": "Brandon",
     "province": "MB",
     "population": 51313,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00054607062"
   },
   {
@@ -26946,7 +26946,7 @@
     "name": "Medicine Hat",
     "province": "AB",
     "population": 63271,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00054801006"
   },
   {
@@ -28563,7 +28563,7 @@
     "name": "St. Albert",
     "province": "AB",
     "population": 68232,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00054811062"
   },
   {
@@ -29718,7 +29718,7 @@
     "name": "Grande Prairie",
     "province": "AB",
     "population": 64141,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00054819012"
   },
   {
