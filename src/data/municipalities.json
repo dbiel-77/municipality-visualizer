@@ -8599,7 +8599,7 @@
     "name": "Granby",
     "province": "QC",
     "population": 69025,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00052447017"
   },
   {
@@ -11133,7 +11133,7 @@
     "name": "Saint-Hyacinthe",
     "province": "QC",
     "population": 57239,
-    "status": "not_started",
+    "status": "in_progress",
     "DGUID": "2021A00052454048"
   },
   {
@@ -11210,7 +11210,7 @@
     "name": "Mascouche",
     "province": "QC",
     "population": 51183,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00052464015"
   },
   {
@@ -12274,7 +12274,7 @@
     "name": "Mirabel",
     "province": "QC",
     "population": 61108,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00052474005"
   },
   {
@@ -14199,7 +14199,7 @@
     "name": "Blainville",
     "province": "QC",
     "population": 59819,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00052473015"
   },
   {
@@ -16866,7 +16866,7 @@
     "name": "North Bay",
     "province": "ON",
     "population": 52662,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053548044"
   },
   {
@@ -16915,7 +16915,7 @@
     "name": "Brighton",
     "province": "ON",
     "population": 12108,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00053514004"
   },
   {
@@ -32406,7 +32406,7 @@
     "name": "Metro Vancouver A",
     "province": "BC",
     "population": 18612,
-    "status": "not_started",
+    "status": "complete",
     "DGUID": "2021A00055915020"
   },
   {
